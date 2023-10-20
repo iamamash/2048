@@ -1,0 +1,7 @@
+version: "3.9"
+
+services:
+  2048-game:
+    image: "iamamash/2048-game"
+    ports:
+      - 80:80
